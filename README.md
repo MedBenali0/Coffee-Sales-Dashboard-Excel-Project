@@ -40,4 +40,4 @@ To address these issues, I adopted a structured approach using Power Query for d
    </p>
 
 ## Summary
-This project enabled me to hone my skills in data cleaning, modeling, analysis, and visualization using Excel, utilizing Power Query, Power Pivot, and Pivot Tables to deliver comprehensive insights.
+This project enabled me to develop my skills in data cleaning, modeling, analysis, and visualization using Excel, utilizing Power Query, Power Pivot, and Pivot Tables to deliver comprehensive insights.
